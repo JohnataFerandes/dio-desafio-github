@@ -1,0 +1,4 @@
+1. Primeiro passo é baixar o Git: Para utilização do Git Bash.
+
+2. Após esse procedimento todo codigo que você lançar na sua maquina,
+você pode upar/subir os mesmos para o Github.
